@@ -25,7 +25,10 @@ Manual data handling of blood campaign leads to trouble like data loss, moreover
 
 
 ## Our Solution:
-For blood banks, it offers comprehensive management tools, enabling the efficient categorization and tracking of various blood types within the inventory. Meanwhile, hospitals can seamlessly request and receive blood units, ensuring swift access during critical moments.
+- For blood banks, our platform provides comprehensive management tools 🩸, facilitating the efficient categorization and meticulous tracking of various blood types within the inventory 📋.
+-  Hospitals, in urgent need, can seamlessly request and promptly receive blood units, ensuring swift access during critical moments ⏰. Moreover, our intuitive interface simplifies the process, empowering users to navigate effortlessly through the system. With real-time updates 🔄, stakeholders remain informed of inventory changes, optimizing decision-making processes.
+
+- Additionally, our solution prioritizes user experience, delivering a seamless and intuitive interface that enhances overall efficiency and effectiveness 💼.
 
 
 ## Key Features:
@@ -43,17 +46,23 @@ For blood banks, it offers comprehensive management tools, enabling the efficien
 - React.Js
 - Material-Ui
 - Tailwind CSS
+
 ## For Database
 - MongoDB
+
 ## For Backend Part
 - Node.js
 - Express.js
-- bycriptjs
-- react-dom
 - nodemon
-- moment
-- jsonwebtoken
+- react-dom
+
+## For API Call
 - axios
+- moment
+
+## For Data Encryption
+- jsonwebtoken
+- bycriptjs
 
 
 
