@@ -1,5 +1,7 @@
 # BLOODBANK
 
+Our blood bank management website offers secure login/signup with bcrypt.js for data protection 🔒. MongoDB powers efficient data storage and retrieval 📊. Real-time updates via WebSocket ensure instant inventory adjustments ⏰. Hospitals can request blood units seamlessly 🏥. Admins manage users, inventory, and requests with role-based access control 🛡️. Automated email notifications enhance communication for efficient blood supply management 📧.
+
 ## Deployed Link: [click here](https://bloodbank-buzj.onrender.com/)
 
 ## Sig-up/Login Page:
@@ -40,6 +42,7 @@ For blood banks, it offers comprehensive management tools, enabling the efficien
 ## For Frontend Part
 - React.Js
 - Material-Ui
+- Tailwind CSS
 ## For Database
 - MongoDB
 ## For Backend Part
