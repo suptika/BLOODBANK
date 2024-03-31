@@ -8,7 +8,7 @@
 ## Organization Dashboard:
 <img src="https://firebasestorage.googleapis.com/v0/b/react-netflix-clone-c36b6.appspot.com/o/Screenshot%202024-03-31%20152424.png?alt=media&token=fedf5a63-cc15-45de-a067-e81a2c1a0fcf" alt="poster" width="500">
 
-## Adding Inventory:
+## Adding Inventory Section:
 <img src="https://firebasestorage.googleapis.com/v0/b/react-netflix-clone-c36b6.appspot.com/o/Screenshot%202024-03-31%20152438.png?alt=media&token=bb4ceea5-1241-4aa1-afca-3361f117afdb" alt="poster" width="500">
 
 ## User Dashboard:
@@ -61,7 +61,7 @@ For blood banks, it offers comprehensive management tools, enabling the efficien
 ### Cloning the repository
 
 ```shell
-git clone 
+git clone https://github.com/suptika/BLOODBANK.git
 ```
 
 ### Install packages
@@ -74,6 +74,7 @@ npm i
 
 
 ```js
+CREATE .env FILE in root Directory
 
 MONGO_URL=
 JWT_SECRET=
